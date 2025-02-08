@@ -1,6 +1,7 @@
 {
-  "name": "sdoran-react",
-  "version": "0.1.0",
+  "name": "sdoran.github.io",
+  "homepage": "https://sdoran.github.io/sdoran.github.io",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
@@ -35,8 +36,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://sdoran.github.io/sdoran.github.io",
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0",
+    "@babel/plugin-proposal-private-property-in-object": "^7.16.7"
   }
 }
+ 
