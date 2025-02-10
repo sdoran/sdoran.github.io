@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sdoran.github.io/static/css/main.769d1029.css",
-    "main.js": "/sdoran.github.io/static/js/main.32425f28.js",
-    "static/js/488.4d167868.chunk.js": "/sdoran.github.io/static/js/488.4d167868.chunk.js",
-    "static/media/logo_sd.png": "/sdoran.github.io/static/media/logo_sd.2f409057591557038fb1.png",
-    "index.html": "/sdoran.github.io/index.html",
-    "main.769d1029.css.map": "/sdoran.github.io/static/css/main.769d1029.css.map",
-    "main.32425f28.js.map": "/sdoran.github.io/static/js/main.32425f28.js.map",
-    "488.4d167868.chunk.js.map": "/sdoran.github.io/static/js/488.4d167868.chunk.js.map"
+    "main.css": "/static/css/main.e86f0f3e.css",
+    "main.js": "/static/js/main.fa4c7003.js",
+    "static/js/488.4d167868.chunk.js": "/static/js/488.4d167868.chunk.js",
+    "static/media/logo_sd.png": "/static/media/logo_sd.2f409057591557038fb1.png",
+    "index.html": "/index.html",
+    "main.e86f0f3e.css.map": "/static/css/main.e86f0f3e.css.map",
+    "main.fa4c7003.js.map": "/static/js/main.fa4c7003.js.map",
+    "488.4d167868.chunk.js.map": "/static/js/488.4d167868.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.769d1029.css",
-    "static/js/main.32425f28.js"
+    "static/css/main.e86f0f3e.css",
+    "static/js/main.fa4c7003.js"
   ]
 }
