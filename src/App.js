@@ -1,6 +1,5 @@
 import logo from './assets/img/logo_sd.png';
 import './assets/css/App.css';
-//import Menu from './components/Menu'; // Import the Menu component
 
 function App() {
   return (
