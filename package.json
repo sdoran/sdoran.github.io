@@ -1,6 +1,6 @@
 {
   "name": "sdoran.github.io",
-  "homepage": "https://sdoran.github.io/sdoran.github.io",
+  "homepage": ".",
   "version": "0.1.1",
   "private": true,
   "dependencies": {
